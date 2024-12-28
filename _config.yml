@@ -1,0 +1,3 @@
+source: ./docs  # If you're using the docs folder for your site
+destination: ./docs/_site
+theme: jekyll-theme-primer
